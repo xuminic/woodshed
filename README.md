@@ -1,7 +1,7 @@
 # Wood Shed -- Howto build a wood shed
 
-<img src="images/final_view_front.jpg" width="1024" alt="Front View">
-<img src="images/final_view_angle.jpg" width="500"><img src="images/final_view_side.jpg" width="500">
+<img src="images/final_view_front.jpg" width="800" alt="Front View">
+<img src="images/final_view_angle.jpg" width="320"><img src="images/final_view_side.jpg" width="320">
 
 This project shares my plan, progress and experience to build a small garden shed 
 with wood frames and cladding. The roof is ColorBond metal and the foundation is
