@@ -8,6 +8,10 @@
     <td align="left"><img src="images/final_view_angle.jpg" width="320" alt="Angle View"></td>
     <td align="right"><img src="images/final_view_side.jpg" width="320" alt="Side View"></td>
   </tr>
+  <tr>
+    <td align="left"><img src="images/figure_elevation_front.png" width="320" alt="Front Blueprint"></td>
+    <td align="right"><img src="images/figure_elevation_side.png" width="320" alt="Side Blueprint"></td>
+  </tr>
 </table>
 
 This project shares my plan, progress and experience to build a small garden shed 
@@ -26,9 +30,17 @@ from this project. I'll also export some PDF file from the plan.
 ## Motivation
 
 I need a shed to host garden tools, being storage room and a sometime study room.
-Metal shed is cheap but need the concrete slab to be assembled. Wood shed could be
-an easy target because you can find all materials at local stores, DIY knowledge
-from website and details from YouTube.
+Metal shed is cheap but need the concrete slab to be assembled. Some wood sheds 
+can be purchased from store. But they are not suitable for the slope.
+Apparently whatever I do I need to build a flat foundation first. The easiest
+way to build a foundation is deck foundation, just some anchor posts and timbers.
+Naturally it would be quite strong if stick some timber frames on the timber
+foundation and a shed could come into being, just need to do some detail design.
+LibreCAD is a cross platform open sourced 2D CAD software which is perfect for 
+my purpose. It supports layers so you can easily see through different profiles.
+It is also convenient to design something not available in Internet, like this
+one, had a 3:1 length width ratio.
+
 
 ## Disclaimer
 
@@ -55,4 +67,10 @@ Different council has different regulations regarding to the dimension.
 The frame section is 90x35mm and the space is based on 600mm, which is commonly 
 used in house building. However I do not know how strong it can resist against the wind
 so please do not build it in tornado area.
+
+## Files and Folders
+
+Note that for some reason these .dxf files may suffer display issue in LibreCAD 2.1.x.
+By such circumstance please try open them with LibreCAD 2.0.x.
+
 
