@@ -74,3 +74,15 @@ Note that for some reason these .dxf files may suffer display issue in LibreCAD 
 By such circumstance please try open them with LibreCAD 2.0.x.
 
 
+    .
+    ├── 01_foundation           # the split design and details of the foundation and floor.
+    ├── 02_frames               # the split design and details of the structural frames.
+    ├── elevation_front.dxf     # the full design of the elevation in the front view.
+    ├── elevation_side.dxf      # the full design of the elevation in the side view.
+    ├── plan.dxf                # the full design of the plan view.
+    ├── supply.ods              # the pretty rough BOM breakdown, don't rely on its price list.
+    ├── images
+    ├── LICENSE
+    └── README.md
+
+
