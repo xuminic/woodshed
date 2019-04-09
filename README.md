@@ -85,4 +85,37 @@ By such circumstance please try open them with LibreCAD 2.0.x.
     ├── LICENSE
     └── README.md
 
+## Power Tools in Need
+
+Those power tools are very important to save your time and efforts. 
+The professional tools are certainly the best. 
+However even the cheapest one will also be the great helper.
+The followed list is not a shopping guide. All pictures and brands are references only.
+You may choose whatever you'd like in your local suppliers within your budget.
+
+* Mitre saw is a must-have. It can easily cut timbers in 90 degree or 45 degress accurately in seconds.
+
+<img src="images/figure_mitre_saw.jpg" width="400">
+
+* 18V drill set, normally includes an impact drill and screw driver. 
+The 18V drill set are amazingly powerful and portable. I used it to drive a 150mm screws quite often
+while 10V driver simply stuck.
+
+<img src="images/figure_18v_drill_set.jpg" width="400">
+
+* Circular saw is almost the every-one-saw. You will need it when you cut the floor board.
+It's light and easy to use. Sometimes it's more flexible when cutting large area boards.
+
+<img src="images/figure_circular_saw.jpg" width="400">
+
+* Table saw is optional. It's more accurate than circular saw especially while cutting 
+narrow or strip of boards. You will find it's much quicker while cutting the cladding board in length.
+
+<img src="images/figure_table_saw.jpg" width="400">
+
+* Drill press is optional. It helps to drill a vertical hole accurately. 
+Perfect for the obsessive-compulsive personality.
+
+<img src="images/figure_drill_press.jpg" width="400">
+
 

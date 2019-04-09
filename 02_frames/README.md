@@ -30,3 +30,10 @@ The 8 pieces are A1-A4, A4-A8, A8-A11, E1-E4, E4-E8, E8-E11 and two A-E.
   </tr>
 </table>
 
+Note that
+* Most timbers are 90x35mm except 8 timbers in A4, A8, E4 and E8 are 90x45mm.
+* The 90x45mm notch in above panels, except the A-E panel, are reserved for the cross over beams.
+* The 345mm extension in the upper panel of E1-E4 and E8-E11 are part of the roof structure.
+* Do NOT tighten or install the triangle supports before those panels were nailed together.
+
+
