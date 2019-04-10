@@ -85,6 +85,36 @@ By such circumstance please try open them with LibreCAD 2.0.x.
     ├── LICENSE
     └── README.md
 
+## Nail or Drill
+
+When fastening timber frames, joinsts or beams together, professional trademen
+prefer to use nails. The cost is low, probably $20/1000 nails. It's super fast
+with an air nailer, for example, the project like the shed can be done in one day
+in an experienced hand. However nailing is not as simple as it looks like. 
+It needs skill. The nails could be bent or crooked. Thumbs are always under threaten.
+Air nailer is not easy to use either. I have a compressor and frame nailer
+and found it's quite hard to control the accuracy and direction. It always goes to
+the unexpected place. It's heavy and loud, sometimes splits timbers. 
+I reckon one needs thousands of nailing practise to get used to that.
+
+Finally I gave up the frame nailer, I still use brad nailer by the way, but using
+screws instead. Screws are very strong and very easy to control. It's accurate because
+there's no impact while driving. It needs more money than nails, yet still only 
+a tiny part in the whole project. Positively thinking, when you don't need the 
+shed any longer, in theory it could be disassembled with a screwdriver.
+
+For better performance, I recommands the Bugle Head Batten Screw, galvanised, 
+heavy duty 14 gauge with hexagonal key drive head for high torque fastening.
+Perfect for the 18V screwdriver.
+
+<img src="images/figure_batten_screw.jpg" width="300">
+
+Most frame timber can be done with 65mm screws. The 100mm screws used to fasten
+the frame on the floor. The overcross beam is 90x90 so there are 16 screws 
+to be 125mm+. To get an accurate screwing, I always drill a pilot hole before
+driving. For those longer than 100mm, the very long drill is needed.
+
+
 ## Power Tools in Need
 
 Those power tools are very important to save your time and efforts. 
@@ -95,27 +125,27 @@ You may choose whatever you'd like in your local suppliers within your budget.
 
 * Mitre saw is a must-have. It can easily cut timbers in 90 degree or 45 degress accurately in seconds.
 
-<img src="images/figure_mitre_saw.jpg" width="400">
+<img src="images/figure_mitre_saw.jpg" width="300">
 
 * 18V drill set, normally includes an impact drill and screw driver. 
 The 18V drill set are amazingly powerful and portable. I used it to drive a 150mm screws quite often
 while 10V driver simply stuck.
 
-<img src="images/figure_18v_drill_set.jpg" width="400">
+<img src="images/figure_18v_drill_set.jpg" width="300">
 
 * Circular saw is almost the every-one-saw. You will need it when you cut the floor board.
 It's light and easy to use. Sometimes it's more flexible when cutting large area boards.
 
-<img src="images/figure_circular_saw.jpg" width="400">
+<img src="images/figure_circular_saw.jpg" width="300">
 
 * Table saw is optional. It's more accurate than circular saw especially while cutting 
 narrow or strip of boards. You will find it's much quicker while cutting the cladding board in length.
 
-<img src="images/figure_table_saw.jpg" width="400">
+<img src="images/figure_table_saw.jpg" width="300">
 
 * Drill press is optional. It helps to drill a vertical hole accurately. 
 Perfect for the obsessive-compulsive personality.
 
-<img src="images/figure_drill_press.jpg" width="400">
+<img src="images/figure_drill_press.jpg" width="300">
 
 
