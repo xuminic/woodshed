@@ -77,6 +77,7 @@ By such circumstance please try open them with LibreCAD 2.0.x.
     .
     ├── 01_foundation           # the split design and details of the foundation and floor.
     ├── 02_frames               # the split design and details of the structural frames.
+    ├── 03_roof                 # the split design and details of the roof structure.
     ├── elevation_front.dxf     # the all in one CAD of the elevation in the front view.
     ├── elevation_side.dxf      # the all in one CAD of the elevation in the side view.
     ├── plan.dxf                # the all in one CAD of the plan view.
