@@ -97,10 +97,13 @@ The screws must be fixed on the crest.
 
 <table>
   <tr>
-   <td align="left"><img src="figure_roofing_screw.png" width="400" alt="Roofing Screw"></td>
-   <td align="right"><img src="figure_screw_to_crest.png" width="400" alt="Screw to Crest"></td>
+   <td align="left"><img src="figure_roofing_screw.png" width="320" alt="Roofing Screw"></td>
+   <td align="right"><img src="figure_screw_to_crest.png" width="320" alt="Screw to Crest"></td>
   </tr>
 </table>
 
+Here is what the roofing look like:
+
+<img src="roof_cover.jpg" width="600">
 
 
